@@ -31,7 +31,7 @@ A full-featured task/bug tracker web application built using **React**, **Vite**
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/task-tracker-app.git
+   git clone https://github.com/adityaXkurama/Bug-Tracker.git
    cd Bug-Tracker
    ```
 2. **Install Dependencies**
