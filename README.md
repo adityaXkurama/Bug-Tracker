@@ -64,8 +64,7 @@ Task timers are handled locally in the browser using real-time tracking. Thereâ€
 - **Assignee Logic is Simple:**  
 Tasks are assigned by manually entering a name. There's no user selection UI or validation based on existing users.
 
-- **Single Project Context:**  
-The system is designed for a single project scope. There is currently no support for managing multiple projects or organizations.
+
 
 ## ðŸŒŸ Areas to Highlight
 
