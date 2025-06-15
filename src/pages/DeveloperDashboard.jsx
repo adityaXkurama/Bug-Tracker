@@ -46,7 +46,7 @@ const DeveloperDashboard = () => {
             onClick={toggleDarkMode}
             className="mb-5 p-4 h-12 rounded border text-sm hover:bg-gray-200 dark:hover:bg-gray-700"
           >
-            {darkMode ? "Light Mode" : "Dark Mode"}
+            {darkMode ? "☀️" : "🌙"} 
           </button>
           <LogoutButton />
         </div>
